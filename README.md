@@ -1,5 +1,5 @@
 # Linear-Regression-Project
- where I delved into linear regression analysis to uncover insights from customer data. 📊 Using Python libraries like pandas, NumPy, and seaborn, I explored relationships between variables and developed a predictive model to understand factors influencing yearly customer spending.
+ Where I delved into  regression analysis to uncover insights from customer data. 📊 Using Python libraries like pandas, NumPy, and seaborn, I explored relationships between variables and developed a predictive model to understand factors influencing yearly customer spending.
 
 
 ## What Is Regression?
